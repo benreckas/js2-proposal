@@ -6,10 +6,10 @@ Create a class that would expand on the concepts of Mobile Friendly First (Respo
 
 ## Technologies
 
-Vanilla JavaScript - No Front-End Frameworks (i.e. Angular, React, etc.)
-[Service Workers](https://developers.google.com/web/ilt/pwa/introduction-to-service-worker) - Cache assets like project files and images for offline access
-[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Use the Fetch API to create, read, update, or delete data from a database
-[Indexed DB](https://github.com/jakearchibald/idb) - Store data retrieved from a DB to to be accessible for offline use
+1) Vanilla JavaScript - No Front-End Frameworks (i.e. Angular, React, etc.)
+1) [Service Workers](https://developers.google.com/web/ilt/pwa/introduction-to-service-worker) - Cache assets like project files and images for offline access
+1) [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Use the Fetch API to create, read, update, or delete data from a database
+1) [Indexed DB](https://github.com/jakearchibald/idb) - Store data retrieved from a DB to to be accessible for offline use
 
 ## Project
 
